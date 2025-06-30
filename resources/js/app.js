@@ -1,1 +1,1 @@
-import './bootstrap';
+// JS Placeholder
